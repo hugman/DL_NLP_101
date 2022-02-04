@@ -1,0 +1,13 @@
+B-DT	0
+B-LC	1
+B-OG	2
+B-PS	3
+B-QT	4
+B-TI	5
+I-DT	6
+I-LC	7
+I-OG	8
+I-PS	9
+I-QT	10
+I-TI	11
+O	12
