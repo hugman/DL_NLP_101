@@ -9,7 +9,7 @@ In this repository, you can find practice code files.
 
 - Deep Learning NLP - Course Overview
 - Part 1. Neural Network Basics
-    - Tensor Operations
-    - Neural Network Development Pattern. 
-    - Neural Network Hello World with Pytorch Lightning
-- Part 2. 
+- Part 2. Attention 101
+- Part 3. Transformer 101
+- Part 4. NLP 101
+
